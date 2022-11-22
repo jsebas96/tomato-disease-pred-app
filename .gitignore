@@ -1,0 +1,4 @@
+.env/
+.vscode/
+network.model/
+.DS_Store

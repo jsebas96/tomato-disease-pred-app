@@ -1,0 +1,6 @@
+numpy==1.23.5
+Pillow==9.3.0
+streamlit==1.15.1
+watchdog==2.1.9
+keras==2.11.0
+opencv-python==4.6.0.66
